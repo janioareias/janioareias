@@ -3,7 +3,7 @@
 <img align="right" width="175px" style="margin-top:-20px" src="https://i.imgur.com/4FZQVb3.png">
 
 <h3>E aí, dev? 🤙</h3>
-<p>Me chamo Jânio Areias e sou <b>desenvolvedor de software.</b> Tenho 17 anos, moro em Caruaru - PE e adoro programação, <b>café</b> e jogos.</p>
+<p>Me chamo Jânio Areias e sou <b>desenvolvedor de software</b> iniciante. Tenho 17 anos, moro em Caruaru - PE e adoro programação, <b>café</b> e jogos.</p>
 
 <h3>💻 Ferramentas e habilidades</h3>
 <img height="40em" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
