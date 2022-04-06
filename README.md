@@ -14,7 +14,7 @@
 <img height="40em" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/><br><br>
           
 
-<br>
+<br/><br/>
 
 <p>📒 Estudo JavaScript, HTML e CSS e recentemente comecei a estudar ReactNative;</p>
 <p>⌨️ Meu primeiro contato com a programação foi aos 11 anos na engine RPG Maker VX;</p>
