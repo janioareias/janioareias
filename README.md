@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<p>📒 Estudo JavaScript, HTML e CSS e recentemente comecei a estudar ReactNative;</p>
+<p>📒 Estudo Python, JavaScript, HTML e CSS e recentemente comecei a estudar Swift;</p>
 <p>⌨️ Meu primeiro contato com a programação foi aos 11 anos na engine RPG Maker VX;</p>
 <p>🎓 Ingressei na faculdade de Ciência da Computação aos 16 anos;</p>
 <p>🎮 Topo jogar qualquer coisa, mas curto demais o gênero de <i>Hero Shooters</i>.</p>
