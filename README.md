@@ -3,7 +3,7 @@
 <img align="right" width="175px" style="margin-top:-20px" src="https://i.imgur.com/4FZQVb3.png">
 
 <h3>Hey! 🤙</h3>
-<p>I'm Janio and I'm a 19-year-old <b>web developer</b>. I'm Brazilian and I love gaming, watching series and reading manga.</p>
+<p>I'm Janio and I'm a 19-year-old <b>web developer</b>. I'm Brazilian and I love gaming, listening to music and reading.</p>
 
 <h3>💻 Skills & knowledghe</h3>
 <img height="40em" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
